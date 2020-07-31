@@ -10,13 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: SmallChunkWest_Right_use_v001
+  m_Name: box_tileset
   m_EditorClassIdentifier: 
-<<<<<<< HEAD
-  m_Sprite: {fileID: 21300000, guid: 337240c9cab050449b9c5418a2d0bad2, type: 3}
-=======
-  m_Sprite: {fileID: 21300000, guid: d10c2d5ce7f06424695b68329519159f, type: 3}
->>>>>>> 631458b84a93d2251a727ae7cc20804973f7fae3
+  m_Sprite: {fileID: 21300000, guid: 10c2a09ab6ac57c4eaeaf13005c3314a, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
     e00: 1

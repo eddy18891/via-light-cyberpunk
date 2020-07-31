@@ -12,7 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: SmallChunkWest_Left_use_v001
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
   m_Sprite: {fileID: 21300000, guid: 397212c62826c794590431de794393e8, type: 3}
+=======
+  m_Sprite: {fileID: 21300000, guid: b279bf75626489c46aa148ed20ca50b6, type: 3}
+>>>>>>> 631458b84a93d2251a727ae7cc20804973f7fae3
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
     e00: 1
